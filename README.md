@@ -38,7 +38,7 @@
 
 Spring 团队对消费则组的描述图：
 
-![SCSt小组](..\imgs\SpringCloudStreamConsumerGroup.jpg)
+![SCSt小组](https://github.com/moholi/spring-cloud-stream-samples/blob/master/blob/images/SpringCloudStreamApplication.jpg)
 
 ### 消费者类型
 
