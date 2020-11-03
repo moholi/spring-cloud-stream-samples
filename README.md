@@ -8,7 +8,7 @@
 
 ### **应用模型**
 
-<img src="https://github.com/moholi/spring-cloud-stream-samples/blob/master/blob/images/SpringCloudStreamApplication.jpg" style="zoom: 150%;" />
+<img src="https://raw.githubusercontent.com/spring-cloud/spring-cloud-stream/master/docs/src/main/asciidoc/images/SCSt-with-binder.png" style="zoom: 150%;" />
 
 ​	Spring Cloud Stream Applicaiton 划出使用Spring Cloud Stream后项目与中间件之间的关系，其中Applicaiton Core可以理解为**消息处理函数**。
 
@@ -38,7 +38,7 @@
 
 Spring 团队对消费则组的描述图：
 
-![SCSt小组](https://github.com/moholi/spring-cloud-stream-samples/blob/master/blob/images/SpringCloudStreamConsumerGroup.jpg)
+![SCSt小组](https://raw.githubusercontent.com/spring-cloud/spring-cloud-stream/master/docs/src/main/asciidoc/images/SCSt-groups.png)
 
 ### 消费者类型
 
