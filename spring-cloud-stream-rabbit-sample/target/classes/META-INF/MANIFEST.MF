@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: spring-cloud-stream-rabbit-sample
-Implementation-Version: moho.tech
-Build-Jdk-Spec: 1.8
-Created-By: Maven Integration for Eclipse
-
